@@ -33,6 +33,10 @@ This is cribbed from the Code Retreat description:
 > pure function of the one before). The rules continue to be applied repeatedly
 > to create further generations.
 
+For more information please see [The Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+in particular the [Examples](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)
+section gives good seed data and intuition.
+
 ## Instructions
 
 Implement the Game of Life in Ruby via TDD.  This _can_ be accomplished entirely
